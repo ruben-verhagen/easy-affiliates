@@ -1,6 +1,10 @@
 
 # Easy Affiliates
 
+easy-affiliates is a Laravel5.0 based web app that integrates Infusionsoft API (https://github.com/infusionsoft/infusionsoft-php) to manage sales affiliates and payouts.
+The dashboard shows clicks, sales and profit from each affiliate and calculates the outstanding payouts for them
+Integrated seamlessly with Infusionsoft and based on latest Laravel5 framework.
+
 ##Requirements
 
        PHP >= 5.4.0
@@ -60,7 +64,7 @@ And to initial populate database use this:
 <a name="step5"></a>
 ### Step 5: Start Page
 
-You can now login to admin part of Laravel Framework 5  Bootstrap 3 Starter Site:
+You can now login to admin part of EasyAffiliates
 
     username: admin@admin.com
     password: admin
